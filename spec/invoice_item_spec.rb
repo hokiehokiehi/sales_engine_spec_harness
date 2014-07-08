@@ -48,4 +48,3 @@ describe "SalesEngine invoice items" do
 
   end
 end
-
